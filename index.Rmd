@@ -1,0 +1,44 @@
+---
+title: "About this Course"
+output:
+  html_document:
+    df_print: paged
+lang: "en"
+---
+
+<br/>
+
+<div>
+  <img src = "img/oop.png" alt = "Object-oriented programming graphic with blue background image illustrating various computer science themes" width = "250" align="right"/>
+
+<div>
+**Instructors:** [R. Jordan Crouser](https://jcrouser.github.io) and [Ab Mosca](https://amosca01.github.io/aemosca/)
+
+**Course Meets:** TTh 9:25-10:40AM EST (Section 01) / 10:50AM-12:05PM EST (Section 02)
+
+**Location:** [Ford 342](https://maps.app.goo.gl/NddQkcYKE6vajAtK8)
+
+**Jordan's Office Hours:** Mondays 8:30-10AM EST, Fridays 11AM-12PM EST in Bass 105
+
+**Ab's Office Hours:** Mondays 1:30-3PM EST, Wednesdays 10:30AM-12PM EST in Bass 105
+
+**TA Hours**: Sundays 1-3PM EST, Sundays through Wednesdays 7-9PM EST in Ford Hall
+</div>
+</div>
+
+<hr>
+
+## Course Description:
+This course emphasizes computational problem-solving using a typed object-oriented programming (OOP). Students will learn core computer science principles including: control flow, functions, classes, objects, methods, encapsulation and information-hiding, specification, recursion, debugging, unit testing, version control, using libraries and writing code in multiple files. Abstract data types and simple data structures will be used to illustrate concepts of OOP and solve computational problems through regular programming assignments (in Java and Python). 
+
+This course assumes prior programming experience including a basic understanding of branching (if-statements), iteration (loops), functions and simple data types (integers, strings, lists/arrays). _Prerequisites: CSC 110 or equivalent. Cannot be taken concurrently with CSC 110._
+
+<hr>
+
+## Learning Goals:
+Upon successful completion of this course, students will be able to:
+
+ - Use object-oriented techniques to write programs.
+ - Develop classes and interfaces with overloaded methods. 
+ - Use inheritance, polymorphism, and abstract classes.
+ - Design and implement robust, reusable, human-friendly programs (including the development of unit tests and custom exception classes).

@@ -1,0 +1,78 @@
+---
+title: "Schedule"
+---
+
+<style>
+
+.schedule colgroup col {
+    width: auto !important;
+}
+
+.schedule th {
+  text-align: left;
+}
+
+.schedule th:nth-child(1),
+.schedule th:nth-child(2) {
+  width: 10%;
+}
+
+.schedule th:nth-child(3) {
+  width: 45%;
+}
+
+.schedule th:nth-child(4) {
+  width: 35%;
+}
+
+.schedule body {
+  padding: 1rem;
+}
+
+.schedule tr:nth-child(4n), 
+.schedule tr:nth-child(4n-1) {
+    background: lightgrey;
+}
+
+.schedule tr:nth-child(15),
+.schedule tr:nth-child(16){
+  background: #333333;
+  color: white;
+}
+
+</style>
+
+The following schedule is subject to change based on the progress of the class. Please check back frequently!
+
+<div class = "schedule">
+| **Date** | **Day** | **Topic**  | **Assignment Out** |
+| ---------|---------|------------|--------------------|
+28-Jan | Tues.  | Introduction  |A1: Real-World Objects|
+30-Jan | Thur.  | Getting started with VSCode + git  | |
+4-Feb | Tues.  | Object-Oriented Thinking   | A2: Object-ification|
+6-Feb | Thur.  | Software Engineering Skill: Requirements and Interfaces |  |
+11-Feb | Tues.  | Introduction to Java   | A3: Chatbot |
+13-Feb | Thur.  | Memory Model Diagrams  | |
+18-Feb | Tues.  | Association  |  A4: Chugging Along |
+20-Feb | Thur.  | Encapsulation  ||
+25-Feb | Tues.  | Software Engineering Skill: Collaborative Coding  |A5: Trace the Execution |
+27-Feb | Thur.  | Handling Exceptions | |
+4-Mar | Tues.  | Software Engineering Skill: Unit Testing | A6: Unit Testing |
+6-Mar | Thur.  |  Real-World Application: Introduction to Graphics |  |
+11-Mar | Tues.  | Mid-semester Recap / AMA | Assignment Rewind|
+13-Mar | Thur.  | Midterm Skill Check (No Class)  | |
+18-Mar | Tues.  | SPRING BREAK  ||
+20-Mar | Thurs.  | CLASSES CANCELLED  | |
+25-Mar | Tues.  | Inheritance  |A7: Use What Your Parent (Class) Gave You |
+27-Mar | Thur.  | Exploring Inheritance in Java Classes  |  |
+1-Apr | Tues.  | Polymorphism pt. 1: Method Overriding  | A8: Not Your Parent's Method |
+3-Apr | Thur.  | Polymorphism pt. 2: Method Overloading  ||
+8-Apr | Tues.  | Abstraction: Generics and Abstract Classes | FP1: Project Proposal|
+10-Apr | Thur.  | Final Project Workshop 1  |   |
+15-Apr | Tues.  | Software Engineering Skill: Architecture Diagrams  | FP2: Draft Codebase, Architecture Diagram|
+17-Apr | Thur.  | Final Project Workshop + Code Review  |    |
+22-Apr | Tues.  | Real World Application: Data Structures  | FP3: Final Codebase and Documentation |
+24-Apr | Thur.  | Final Project Workshop + Code Review | |
+29-Apr | Tues.  | Real World Application: TBD |FP4: Final Deliverables  |
+1-May | Thur.  | Final Project Demonstration Day  | |
+</div>

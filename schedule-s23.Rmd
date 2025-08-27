@@ -1,0 +1,64 @@
+---
+title: "Schedule"
+---
+
+<style>
+
+.table-condensed tr:nth-child(4n-1), 
+.table-condensed tr:nth-child(4n-2) {
+    background: lightgrey;
+}
+
+.table-condensed tr:nth-child(9),
+.table-condensed tr:nth-child(13),
+.table-condensed tr:nth-child(14),
+.table-condensed tr:nth-child(15){
+  background: #333333;
+  color: white;
+}
+
+.table-condensed td:nth-child(2){
+  width: 40%;
+}
+.table-condensed td:nth-child(4){
+  width: 30%;
+}
+
+.table-condensed body {
+  padding: 1rem;
+}
+</style>
+
+The following schedule is subject to change based on the progress of the class. Please check back frequently!
+
+| **Date** | **Topic**  | **Assignment Out** |
+| ---------|------------|----------------|
+1/26 | Introduction | A1: Real-World Objects |
+1/31 | Getting started with VSCode + git ||
+2/2 | Object-Oriented Thinking  | A2: Object-ification |
+2/7 | Software Engineering Skill: Translating to/from Pseudocode ||
+2/9 | Introduction to Java | A3: Our First Java Class |
+2/14 | Encapsulation in Java  ||
+2/16 | Memory Model | A4: Trace the Execution |
+2/21 | Exceptions and `try...catch` ||
+2/23 | RALLY DAY - No Class ||
+2/28 | Association pt. 1: Aggregation ||
+3/2 | Association pt. 2: Composition |A5: Assembling the Pieces |
+3/7 | Mid-semester Recap / AMA ||
+3/9 | Midterm (class cancelled) ||
+3/14 | SPRING ||
+3/16 | BREAK ||
+3/21 | Inheritance | |
+3/23 | Exploring Inheritance in Java Classes |A6: Use What Your Parent (Class) Gave You|
+3/28 | Polymorphism pt. 1: Method Overriding ||
+3/30 | Polymorphism pt. 2: Method Overloading |A7: Not Your Parent's Method|
+4/4 | Abstraction pt. 1: Interfaces and Generic Types ||
+4/6 | Abstraction pt. 2: Abstract Classes | A8: Promises, Promises...|
+4/11 | Software Engineering Skill: Unit Testing ||
+4/13 | Final Project Workshop 1 | FP1: Project Proposal|
+4/18 | Software Engineering Skill: Architecture Diagrams ||
+4/20 | Final Project: Code Review |FP2: Draft Codebase, Architecture Diagram |
+4/25 | JIT Lecture: Graphs and Networks in Java (with Guava!) ||
+4/27 | JIT Lecture: Java Graphics / Model-View-Controller ||
+5/2 | Final Project Workshop 2 ||
+5/4 | Final Project Presentations ||

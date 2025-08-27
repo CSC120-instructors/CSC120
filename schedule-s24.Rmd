@@ -1,0 +1,78 @@
+---
+title: "Schedule"
+---
+
+<style>
+
+.table-condensed colgroup col {
+    width: auto !important;
+}
+
+.table-condensed th {
+  text-align: left;
+}
+
+.table-condensed th:nth-child(1),
+.table-condensed th:nth-child(2) {
+  width: 10%;
+}
+
+.table-condensed th:nth-child(3) {
+  width: 45%;
+}
+
+.table-condensed th:nth-child(4) {
+  width: 35%;
+}
+
+.table-condensed body {
+  padding: 1rem;
+}
+
+.table-condensed tr:nth-child(4n-1), 
+.table-condensed tr:nth-child(4n-2) {
+    background: lightgrey;
+}
+
+.table-condensed tr:nth-child(9),
+.table-condensed tr:nth-child(16),
+.table-condensed tr:nth-child(17){
+  background: #333333;
+  color: white;
+}
+
+</style>
+
+The following schedule is subject to change based on the progress of the class. Please check back frequently!
+
+| **Date** | **Day** | **Topic**  | **Assignment Out** |
+| ---------|----------|------------|----------------|
+1/25   | Thur. | Introduction | A1: Real-World Objects |
+1/30  | Tues. | Getting started with VSCode + git ||
+2/1  | Thur. | Object-Oriented Thinking  | A2: Object-ification |
+2/6  | Tues. | Software Engineering Skill: Translating to/from Pseudocode ||
+2/8  | Thur. | Introduction to Java | A3: Our First Java Class |
+2/13  | Tues. | Encapsulation in Java  ||
+2/15  | Thur. | Memory Models | A4: Chugging Along |
+2/20  | Tues. | Exceptions ||
+2/22  | Thur. | No Class - RALLY DAY |A5: Trace the Execution|
+2/27 | Tues. | Association pt. 1: Aggregation ||
+2/29 | Thur. | Association pt. 2: Composition |Assignment Rewind: Revise & Resubmit|
+3/5 | Tues. | Inheritance |A6: Use What Your Parent (Class) Gave You|
+3/7 | Thur. | Exploring Inheritance in Java Classes ||
+3/12 | Tues. | Mid-semester Recap / AMA ||
+3/14 | Thur. | Midterm Skill Check (No Class) ||
+3/19 | Tues. | NO CLASS ||
+3/21 | Thurs. | SPRING BREAK ||
+3/26 | Tues. | Polymorphism pt. 1: Method Overriding |||
+3/28  | Thur. | Polymorphism pt. 2: Method Overloading |A7: Not Your Parent's Method|
+4/2  | Tues. | Abstraction pt. 1: Interfaces and Generic Types ||
+4/4  | Thur. | Abstraction pt. 2: Abstract Classes | A8: Promises, Promises...
+4/9 | Tues. |Final Project Workshop 1 | FP1: Project Proposal|
+4/11 | Thur. | Real World Applications pt. 1 ||
+4/16 | Tues. | Software Engineering Skill: Architecture Diagrams | FP2: Draft Codebase, Architecture Diagram |
+4/18 | Thur. | Real World Applications pt. 2 ||
+4/23 | Tues. | Final Project: Code Review |FP3: Beta Codebase, Revised Architecture Diagram|
+4/25 | Thur. | Real World Applications pt. 3||
+4/30  | Tues. | Final Project Workshop 3 |FP3: Final Codebase and Documentation|
+5/2  | Thur. | Final Project Presentations ||

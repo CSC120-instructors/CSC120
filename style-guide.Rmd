@@ -1,0 +1,38 @@
+---
+title: "Java Style Guide"
+lang: "en"
+---
+
+Follow these tips for good programming style. Each item below will be considered when assignments are graded. More importantly, programs that follow these recommendations will be easier to read, easier to understand, and easier to debug.
+
+## General
+
+- Follow standard Javadoc style conventions. (Comment every class and class member. Use `@author`, `@version`, `@param`, and `@return` as appropriate.)
+- Use curly braces and indentation properly and consistently.
+    - Always start a new line and indent after an open curly brace.
+    - Always start a new line after a closing curly brace, except for else in a conditional structure or while in a `do... while` structure.
+    - Open curly brace may come at the end of a line (compact style) or always on its own line (loose style).
+    - Closing curly brace should always start its own line, and should be outdented to undo the indent from the open brace that it matches.
+- Eliminate unnecessary repetition.
+- In a tradeoff between clarity and efficiency, **choose clarity**.
+- This [style guide from the University of Hawaii](http://www2.hawaii.edu/~tp_200/ics111/material/codingStandards.html) goes into further detail on many areas.
+
+## Headers
+
+- Include [Javadoc header comments](https://www.oracle.com/technical-resources/articles/java/javadoc-tool.html) for every class and method.
+- Class headers should include:
+    #. Description of class's purpose, beginning with a one-sentence summary
+    #. Author information, using `@author` tag
+    #. Date, using `@version` tag
+- Method headers should include:
+    #. Description of method's purpose, beginning with a one-sentence summary
+    #. Description of each parameter, using `@param` tags
+    #. Description of return data (if any), using `@return` tag
+    #. Description of exceptions thrown (if any not specified), using `@throws` tags
+- Field headers should include a short description of the purpose.
+- Descriptive text should give more information than is obvious from looking at the name of the class, field, or method.
+
+## Naming
+
+- Give variables clear, descriptive names that describes what information they hold.
+- Name methods according to what the method does.

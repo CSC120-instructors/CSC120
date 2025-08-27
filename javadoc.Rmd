@@ -1,0 +1,40 @@
+---
+title: "Javadoc Comment Example"
+lang: "en"
+html_document:
+    highlight: pygments
+---
+
+
+<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+
+Consider the following (simple) class:
+
+<pre class="prettyprint lang-java">
+import java.util.Scanner;
+
+public class Main {
+
+  /**
+   * Demonstrates the use of the emphasize(...) method
+   * @param args The command line arguments (ignored)
+   **/
+  public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+    System.out.print("Text to emphasize: ");
+    String userInput = sc.nextLine();
+    System.out.print("Emphasis applied: ");
+    System.out.println(emphasize(userInput));
+  }
+
+  /**
+   * Returns a modified version of the input string
+   * @param   s The String to modify
+   * @return  The modified String with emphasis applied
+   */
+  public static String emphasize(String s){
+    return s.toUpperCase()+"!!!";
+  }
+}
+</pre>
+

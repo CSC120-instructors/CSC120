@@ -1,0 +1,83 @@
+---
+title: "Schedule"
+---
+
+<style>
+
+.schedule colgroup col {
+    width: auto !important;
+}
+
+.schedule th {
+  text-align: left;
+}
+
+.schedule th:nth-child(1),
+.schedule th:nth-child(2) {
+  width: 10%;
+}
+
+.schedule th:nth-child(3) {
+  width: 45%;
+}
+
+.schedule th:nth-child(4) {
+  width: 35%;
+}
+
+.schedule body {
+  padding: 1rem;
+}
+
+.schedule tr:nth-child(4n), 
+.schedule tr:nth-child(4n-1) {
+    background: lightgrey;
+}
+
+.schedule tr:nth-child(9),
+.schedule tr:nth-child(13),
+.schedule tr:nth-child(14),
+.schedule tr:nth-child(19),
+.schedule tr:nth-child(21),
+.schedule tr:nth-child(26){
+  background: #333333;
+  color: white;
+}
+
+</style>
+
+The following schedule is subject to change based on the progress of the class. Please check back frequently!
+
+<div class = "schedule">
+| **Date** | **Day** | **Topic**  | **Assignment Out** |
+| ---------|---------|------------|--------------------|
+3-Sep | Tues.  | Introduction  ||
+5-Sep | Thur.  | Getting started with VSCode + git  |A1: Real-World Objects  |
+10-Sep | Tues.  | Object-Oriented Thinking   | |
+12-Sep | Thur.  | Software Engineering Skill: Translating to/from Pseudocode  |A2: Object-ification  |
+17-Sep | Tues.  | Introduction to Java  |  |
+19-Sep | Thur.  | Encapsulation in Java   |A3: Our First Java Class  |
+24-Sep | Tues.  | Memory Models  |   |
+26-Sep | Thur.  | Exceptions  |A4: Chugging Along  |
+1-Oct | Tues.  | MOUNTAIN DAY (No Class)  | |
+3-Oct | Thur.  | Association |A5: Trace the Execution |
+8-Oct | Tues.  |Software Engineering Skill: Unit Testing | |
+10-Oct | Thur.  | Mid-semester Recap / AMA  | Assignment Rewind |
+15-Oct | Tues.  |FALL BREAK - NO CLASS | |
+17-Oct | Thur.  | Midterm Skill Check (No Class)  | |
+22-Oct | Tues.  | Inheritance  ||
+24-Oct | Thurs.  | Exploring Inheritance in Java Classes  | A6: Use What Your Parent (Class) Gave You |
+29-Oct | Tues.  | Polymorphism pt. 1: Method Overriding  | |
+31-Oct | Thur.  | Polymorphism pt. 2: Method Overloading  |A7: Not Your Parent's Method |
+5-Nov | Tues.  | ELECTION DAY (No Class)  |  |
+7-Nov | Thur.  | Abstraction: Generics, Interfaces, and Abstract Classes  | A8: Promises, Promises...|
+12-Nov | Tues.  | CROMWELL DAY (No Class)  | |
+14-Nov | Thur.  | Final Project Workshop 1  | FP1: Project Proposal  |
+19-Nov | Tues.  | Software Engineering Skill: Architecture Diagrams  | |
+21-Nov | Thur.  | Final Project Workshop + Code Review  | FP2: Draft Codebase, Architecture Diagram   |
+26-Nov | Tues.  | Real World Applications pt. 1  | |
+28-Nov | Thur.  |THANKSGIVING BREAK - NO CLASS | |
+3-Dec | Tues.  | Real World Applications pt. 2 |FP3: Final Codebase and Documentation  |
+5-Dec | Thur.  | Final Project Workshop + Code Review  | |
+10-Dec | Tues.  | Final Project Presentations  | |
+</div>

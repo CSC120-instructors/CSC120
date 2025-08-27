@@ -1,0 +1,65 @@
+---
+title: "Schedule"
+---
+
+<style>
+
+.table-condensed tr:nth-child(4n), 
+.table-condensed tr:nth-child(4n-1) {
+    background: lightgrey;
+}
+
+.table-condensed tr:nth-child(9),
+.table-condensed tr:nth-child(11),
+.table-condensed tr:nth-child(13),
+.table-condensed tr:nth-child(21),
+.table-condensed tr:nth-child(24){
+  background: #333333;
+  color: white;
+}
+
+.table-condensed td:nth-child(2){
+  width: 40%;
+}
+.table-condensed td:nth-child(4){
+  width: 30%;
+}
+
+.table-condensed body {
+  padding: 1rem;
+}
+</style>
+
+The following schedule is subject to change based on the progress of the class. Please check back frequently!
+
+| **Date** | **Topic**  | **Assignment Out** |
+| ---------|------------|----------------|
+9/6 | Introduction | A1: Real-World Objects |
+9/8 | Getting started with VSCode + git ||
+9/13 | Object-Oriented Thinking  | A2: Object-ification |
+9/15 | Software Engineering Skill: Translating to/from Pseudocode ||
+9/20 | Introduction to Java | A3: Our First Java Class |
+9/22 | Encapsulation in Java  ||
+9/27 | Memory Models | A4: Trace the Execution |
+9/29 | More on Pointers, References, and Indirection ||
+10/4 | Class cancelled | |
+10/6 | Association pt. 1: Aggregation |Homework Rewind: Revise & Resubmit|
+10/11 | No Class - Fall Break ||
+10/13 | Association pt. 2: Composition |A5: Assembling the Pieces |
+10/18 | Mid-semester Recap / AMA (remote) ||
+10/20 | Midterm this Weekend (no class) ||
+10/25 | Inheritance | A6: Use What Your Parent (Class) Gave You |
+10/27 | Exploring Inheritance in Java Classes ||
+11/1 | Polymorphism pt. 1: Method Overriding | A7: Not Your Parent's Method |
+11/3 | Polymorphism pt. 2: Method Overloading ||
+11/8 | Abstraction pt. 1: Interfaces and Generic Types | A8: Promises, Promises... |
+11/10 | Abstraction pt. 2: Abstract Classes ||
+11/15 | No Class - Cromwell Day ||
+11/17 | Final Project Workshop 1 | FP1: Project Proposal|
+11/22 | Software Engineering Skill: Unit Testing ||
+11/24 | No Class - Thanksgiving ||
+11/29 | Software Engineering Skill: Architecture Diagrams | FP2: Draft Codebase, Architecture Diagram 
+12/1 | Final Project: Code Review ||
+12/6 | Real World Applications pt. 2 ||
+12/8 | Final Project Workshop 2 ||
+12/13 | Final Project Presentations ||

@@ -1,0 +1,32 @@
+---
+title: "Late Policy"
+lang: "en"
+---
+
+Programmers develop their skills through constant practice. CSC120 features weekly programming assignments, which build from one week to the next, and each assignment is designed to take a full week of work. Delaying the completion of an assignment will put you at a disadvantage going into the next one. Nevertheless, sometimes a little flexibility makes a huge difference, so students are empowered to give themselves extensions when it would aid their ability to master the material. Only extensions which precisely adhere to the guidelines below will be considered valid. Late assignments without a valid extension will receive no credit.
+
+## Extension Guidelines
+Extensions must be requested *before* the work is due, and they will not be given retroactively. Students may only grant themselves extensions for homework assignments; extensions do not apply to lab work, skill checks, or the final project. When pair programming, both students in the pair must each submit their own request for the same extension. Work turned in under an extension will receive the lowest priority for grading, and in some cases may not be returned until the end of the semester.
+
+## Requesting an Extension
+Prior to the original deadline for the assignment, submit a file called `extension.txt` on Gradescope that contains the following:
+
+- Your name (and partner's name if you are pair programming)
+- Assignment number and original due date
+- Duration of extension and new due date
+- Review of any prior extension requests
+
+For example:
+```
+  Jordan Crouser & Ab Mosca
+  HW3 originally due 02/17/2025
+  2 day extension, now due 02/19/2025
+  Previous extensions: HW1 (3 days), HW2 (1 day)
+```
+
+Be sure that you **do not submit any other files** with your extension request. You can bring your code in progress to office or TA hours if you need. Do not turn in work that you do not want to be graded.
+
+Once you've finished, and before your new deadline expires, submit all your files for the assignment as usual.
+
+## Changing an Extension
+If you submit an `extension.txt` before the deadline and then decide you do not need it, just turn your code as usual and include an `extension.txt` file without any text. If you realize that you need even more time, you may grant yourself an additional extension following the same procedure again. However, repeated resets are unlikely to enhance your learning, so be mindful about how much time you add to your clock!
