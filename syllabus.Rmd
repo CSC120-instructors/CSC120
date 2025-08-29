@@ -110,14 +110,16 @@ Proficiency with various computer environments and infrastructure will also come
 
 ## Communication
 
-All written communication regarding this course will take place via [Discord](https://discord.com) (a cloud-based communication platform that supports text, voice, and video). This includes:
+All written communication regarding this course will take place via [Slack](https://slack.com) (a cloud-based communication platform that supports text, voice, and video). This includes:
 
 - **#announcements**: Important notices about class times, deadlines, office hours, etc.
 - **#general**: Introductions and discussion of course-related material, off-topic ideas, etc.
 - **#questions**: Channel for all non-personal questions. *Don’t be shy if you are puzzled, someone else probably is too!*
-- **DMs**: Message your professors directly for matters that require individual communication.
+- **DMs**: Message your professors directly for matters that require individual communication. Be sure to message *both* of us!
 
-Even if you're not used to Discord at first, it's not too hard to learn. The advantages of having all course communications in one place are compelling. Use Discord!
+We (professors) will do our best to answer Slack messages promptly. Please note that messages sent outside of regular working hours (M-F 9:00AM - 5:00PM ET) will take us longer to respond to.
+
+Messages sent via email will likely go unanswered. Please use Slack to help us stay organized. 
 
 <hr>
 ## Assessment
@@ -128,13 +130,15 @@ There are three forms of assessment in this course:
 - One final programming project
 
 <hr>
-## Homework, Labs, and Lateness Policy
+## Assignments, Lateness Policy, and Resubmissions
 
-Weekly programming assignments will be introduced in class on Thursdays (sneak peek on Wednesday nights), and we will work together to get started on them during class time. Final submissions will be due Wednesdays at 11:59PM EST. Because our lives and learning do not always go as planned, every student will be able grant themselves extensions on homework assignments. Read details on [how to request an extension here](late-policy.html).
+Weekly programming assignments will be introduced in class weekly, and we will work together to get started on them during class time. Final submissions will be due one week later at 11:59PM EST. Because our lives and learning do not always go as planned, every student will be able grant themselves extensions on homework assignments. Read details on [how to request an extension here](late-policy.html).
+
+Our primary goal in this course is learning. False starts and mistakes are normal and expected! Because of this, you are allowed to revise and resubmit any assignment as many times as needed until the end of finals period (extensions beyond the end of finals require permission of the class dean). Please use revise and resubmit as an opportunity to improve your learning; carefully consider whether resubmitting for minimal points back will help you gain a deeper understanding of material. The highest grade will always be the one applied to your final grade, even if that is not the most recent submission. Revised and resubmitted assignments should be submitted on Gradescope the same way the original assignment was submitted. *Resubmitted assignments must include a change log explaining what changes were made from the previous submission. Resubmissions missing a changelog will not be graded.* 
 
 <hr>
 ## Collaboration and Academic Integrity
-Programming is more fun in groups!  Students are strongly encouraged to form study groups and to collaborate in solving the assignments. Please ensure that all work you submit is ultimately the product of your own understanding rather than anyone else's.  You may consult online or print references on all assignments and labs. Standard language references showing syntax, usage, documentation, etc. need not be cited; nor does the course textbook.  All other resources must be cited as described below.
+Programming is more fun in groups!  Students are strongly encouraged to form study groups and to collaborate in solving the assignments -- you may submit your assignments as a group. Please ensure that all work you submit is ultimately the product of your own understanding rather than anyone else's.  You may consult online or print references on all assignments and labs. Standard language references showing syntax, usage, documentation, etc. need not be cited; nor does the course textbook.  All other resources must be cited as described below.
 
 The following information is required for all submitted work:
 
@@ -147,7 +151,7 @@ In this course, students are permitted to utilize AI-powered code-completion too
 
 **Guidelines for Using AI Code-Completion:**
 
-1. **Attribution:** We'll treat AI code-completion tools as "collaborators" in this class. Whenever you get help with your programming tasks, it is crucial to provide clear and transparent attribution. Include a comment or annotation in your code specifying that certain sections were generated with the help of an AI code-completion tool.
+1. **Attribution:** We'll treat AI code-completion tools as "collaborators" in this class. Whenever you get help with your programming tasks, it is crucial to provide clear and transparent attribution. Include a comment or annotation in your code specifying that certain sections were generated with the help of an AI code-completion tool. *Proper attribution includes submitting a PDF copy of your entire AI transcript.*
 
 2. **Originality:** While AI code-completion can offer valuable insights and suggestions, it is important that the final code reflects *your* understanding of the material. For this reason, you should avoid  copying generated code without understanding what it does; instead, use it as a reference to enhance your own programming skills.
 
@@ -177,7 +181,7 @@ Note that the final grade is based on our evaluation of your work, and every eff
 
 <hr>
 ## Accessibility & Accommodations
-We aim to make this course accessible to all and welcome feedback about changes we can make to meet that goal. If you encounter barriers to participation in this or any other course, please [register with the Disability Services Office](https://www.smith.edu/about-smith/disability-services/register) to request support and accommodations.
+We aim to make this course accessible to all and welcome feedback about changes we can make to meet that goal. If you encounter barriers to participation in this or any other course, please [register with the Accessibility Resource Center (ARC)](https://www.smith.edu/your-campus/offices-services/accessibility-resource-center) to request support and accommodations.
 
 <hr>
 ## Comfy Class Policy

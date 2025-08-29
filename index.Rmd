@@ -12,15 +12,15 @@ lang: "en"
   <img src = "img/oop.png" alt = "Object-oriented programming graphic with blue background image illustrating various computer science themes" width = "250" align="right"/>
 
 <div>
-**Instructors:** [R. Jordan Crouser](https://jcrouser.github.io) and [Ab Mosca](https://amosca01.github.io/aemosca/)
+**Instructors:** [Hia Ghosh](TODO) and [Ab Mosca](https://amosca01.github.io/aemosca/)
 
 **Course Meets:** TTh 9:25-10:40AM EST (Section 01) / 10:50AM-12:05PM EST (Section 02)
 
-**Location:** [Ford 342](https://maps.app.goo.gl/NddQkcYKE6vajAtK8)
+**Location:** Bass 204
 
-**Jordan's Office Hours:** Mondays 8:30-10AM EST, Fridays 11AM-12PM EST in Bass 105
+**Hia's Office Hours:** TODO
 
-**Ab's Office Hours:** Mondays 1:30-3PM EST, Wednesdays 10:30AM-12PM EST in Bass 105
+**Ab's Office Hours:** Mondays 09:45-11:15 EST, Fridays 11:00-12:30 EST in Bass 105/107
 
 **TA Hours**: Sundays 1-3PM EST, Sundays through Wednesdays 7-9PM EST in Ford Hall
 </div>
