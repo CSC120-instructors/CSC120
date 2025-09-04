@@ -18,7 +18,7 @@ lang: "en"
 
 **Location:** Bass 204
 
-**Hia's Office Hours:** TODO
+**Hia's Office Hours:** Wednesdays 09:00-11:00 ET
 
 **Ab's Office Hours:** Mondays 09:45-11:15 EST, Fridays 11:00-12:30 EST in Bass 105/107
 

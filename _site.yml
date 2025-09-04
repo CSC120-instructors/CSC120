@@ -22,13 +22,13 @@ navbar:
       - text: "Javadoc Example"
         href: javadoc.html
     - text: "Moodle"
-      href: https://moodle.smith.edu/course/view.php?id=52690
+      href: https://moodle.smith.edu
       icon: fa-graduation-cap
     - text: "Gradescope"
-      href: https://www.gradescope.com/courses/968473
+      href: https://www.gradescope.com
       icon: fa-code
     - text: "Slack"
-      href: https://csc-120-all-202503.slack.com
+      href: https://www.slack.com
       icon: fa-slack
               
 output:
