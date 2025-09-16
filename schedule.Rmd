@@ -53,10 +53,10 @@ The following schedule is subject to change based on the progress of the class. 
 11-Sep | Thur.  | Object-Oriented Thinking   | A2: Object-ification|
 16-Sep | Tues.  | Introduction to Java |  |
 18-Sep | Thur.  | Software Engineering Skill: Requirements and Interfaces   | A3: Chatbot |
-23-Sep | Tues.  | Memory Model Diagrams  | |
+23-Sep | Tues.  | Encapsulation  | |
 25-Sep | Thur.  | Association  |  A4: Chugging Along |
-30-Sep | Tues.  | Encapsulation  ||
-02-Oct | Thur.  | Software Engineering Skill: Collaborative Coding  |A5: Trace the Execution |
+30-Sep | Tues.  | Software Engineering Skill: Collaborative Coding  ||
+02-Oct | Thur.  | Memory Model Diagrams  | A5: Trace the Execution |
 07-Oct | Tues.  | Handling Exceptions | |
 09-Oct | Thur.  | Software Engineering Skill: Unit Testing | A6: Unit Testing |
 14-Oct | Tues.  | CLASSES CANCELLED - Fall Recess | |
