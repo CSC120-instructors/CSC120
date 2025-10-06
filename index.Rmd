@@ -20,7 +20,7 @@ lang: "en"
 
 **Hia's Office Hours:** Wednesdays 09:00-11:00 ET
 
-**Ab's Office Hours:** Mondays 09:45-11:15 EST, Fridays 11:00-12:30 EST in Bass 105/107
+**Ab's Office Hours:** Mondays 09:45-11:15 EST, Fridays 10:30-12:00 EST in Bass 105/107
 
 **TA Hours**: Sundays 1-3PM EST, Sundays through Wednesdays 7-9PM EST in Ford Hall
 </div>
