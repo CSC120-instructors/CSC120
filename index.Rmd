@@ -12,15 +12,13 @@ lang: "en"
   <img src = "img/oop.png" alt = "Object-oriented programming graphic with blue background image illustrating various computer science themes" width = "250" align="right"/>
 
 <div>
-**Instructors:** [Hia Ghosh](TODO) and [Ab Mosca](https://amosca01.github.io/aemosca/)
+**Instructors:** [Hia Ghosh](https://www.smith.edu/people/hia-ghosh)
 
-**Course Meets:** TTh 9:25-10:40AM EST (Section 01) / 10:50AM-12:05PM EST (Section 02)
+**Course Meets:** TTh 2:45PM-4:00PM EST (Section 01) / 1:20PM-2:35PM EST (Section 02)
 
 **Location:** Bass 204
 
-**Hia's Office Hours:** Wednesdays 09:00-11:00 ET
-
-**Ab's Office Hours:** Mondays 09:45-11:15 EST, Fridays 10:30-12:00 EST in Bass 105/107
+**Hia's Office Hours:** Wednesdays 09:00-11:00AM EST and 1:00-4:00PM EST in Bass 218, otherwise by appointment over Zoom
 
 **TA Hours**: Sundays 1-3PM EST, Sundays through Wednesdays 7-9PM EST in Ford Hall
 </div>

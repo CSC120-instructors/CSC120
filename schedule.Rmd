@@ -48,33 +48,32 @@ The following schedule is subject to change based on the progress of the class. 
 <div class = "schedule">
 | **Date** | **Day** | **Topic**  | **Assignment Out** |
 | ---------|---------|------------|--------------------|
-04-Sep | Thur.  | Introduction  |A1: Real-World Objects|
-09-Sep | Tues.  | Getting started with VSCode + git  | |
-11-Sep | Thur.  | Object-Oriented Thinking   | A2: Object-ification|
-16-Sep | Tues.  | Introduction to Java |  |
-18-Sep | Thur.  | Software Engineering Skill: Requirements and Interfaces   | A3: Chatbot |
-23-Sep | Tues.  | Encapsulation  | |
-25-Sep | Thur.  | Association  |  A4: Chugging Along |
-30-Sep | Tues.  | NO CLASS - Mountain Day  ||
-02-Oct | Thur.  | Memory Model Diagrams  | A5: Trace the Execution |
-07-Oct | Tues.  | Handling Exceptions | |
-09-Oct | Thur.  | Software Engineering Skill: Unit Testing | A6: Unit Testing |
-14-Oct | Tues.  | CLASSES CANCELLED - Fall Recess | |
-16-Oct | Thur.  | Real-World Application: Introduction to Graphics | Assignment Rewind |
-21-Oct | Tues.  | Mid-semester Recap / AMA | |
-23-Oct | Thur.  | Midterm Skill Check (No Class)  |  |
-28-Oct | Tues.  | Inheritance  | |
-30-Oct | Thur.  | Exploring Inheritance in Java Classes  | A7: Use What Your Parent (Class) Gave You |
-04-Nov | Tues.  | Polymorphism pt. 1: Method Overriding  |  |
-06-Nov | Thur.  | CLASSES CANCELLED - Cromwell Day | A8: Not Your Parent's Method |
-11-Nov | Tues.  | Polymorphism pt. 2: Method Overloading  | |
-13-Nov | Thur.  | Abstraction: Generics and Abstract Classes | FP1: Project Proposal |
-18-Nov | Tues.  | Final Project Workshop 1  |   |
-20-Nov | Thur.  | Software Engineering Skill: Architecture Diagrams  | FP2: Draft Codebase, Architecture Diagram |
-25-Nov | Tues.  | Final Project Workshop + Code Review  |  |
-27-Nov | Thur.  | CLASSES CANCELLED - Thanksgiving Recess | |
-02-Dec | Tues.  | Real World Application: Data Structures  |  |
-04-Dec | Thur.  | Final Project Workshop + Code Review | FP3: Revised Codebase, Architecture Diagram |
-09-Dec | Tues.  | Real World Application: TBD |  |
-11-Dec | Thur.  | Final Project Demonstration Day  | FP4: Final Deliverables (Due end of finals) |
+27-Jan | Tues  | Introduction  |A1: Real-World Objects|
+29-Jan | Thur  | Getting started with VSCode + git  | |
+03-Feb | Tues  | Object-Oriented Thinking   | A2: Object-ification|
+05-Feb | Thur  | Introduction to Java |  |
+10-Feb | Tues  | Software Engineering Skill: Requirements and Interfaces   | A3: Chatbot |
+12-Feb | Thur  | Encapsulation  | |
+17-Feb | Tues  | Association  |  A4: Chugging Along |
+19-Feb | Thur  | Memory Model Diagrams  | |
+24-Feb | Tues  | Handling Exceptions |A5: Trace the Execution|
+26-Feb | Thur  | NO CLASS - Rally Day  ||
+03-Mar | Tues  | Software Engineering Skill: Unit Testing | A6: Unit Testing |
+05-Mar | Thur  | Real-World Application: Introduction to Graphics | Assignment Rewind |
+10-Mar | Tues  | Mid-semester Recap / AMA | |
+12-Mar | Thur  | Midterm Skill Check (No Class)  | |
+17-Mar | Tues  | CLASSES CANCELLED - Spring Recess | |
+19-Mar | Thur  | CLASSES CANCELLED - Spring Recess | |
+24-Mar | Tues  | Inheritance  | A7: Use What Your Parent (Class) Gave You |
+26-Mar | Thur  | Exploring Inheritance in Java Classes  | |
+31-Mar | Tues  | Polymorphism pt. 1: Method Overriding  | A8: Not Your Parent's Method |
+02-Apr | Thur  | Polymorphism pt. 2: Method Overloading  | |
+07-Apr | Tues  | Abstraction: Generics and Abstract Classes | FP1: Project Proposal |
+09-Apr | Thur  | Final Project Workshop 1  |   |
+14-Apr | Tues  | Software Engineering Skill: Architecture Diagrams  | FP2: Draft Codebase, Architecture Diagram |
+16-Apr | Thur  | Final Project Workshop + Code Review  |  |
+21-Apr | Tues  | Real World Application: Data Structures  |  |
+23-Apr | Thur  | Final Project Workshop + Code Review | FP3: Revised Codebase, Architecture Diagram |
+28-Apr | Tues  | Real World Application: TBD |  |
+30-Apr | Thur  | Final Project Demonstration Day  | FP4: Final Deliverables (Due end of finals) |
 </div>
