@@ -34,9 +34,9 @@ title: "Schedule"
     background: lightgrey;
 }
 
-.schedule tr:nth-child(12),
-.schedule tr:nth-child(19),
-.schedule tr:nth-child(25){
+.schedule tr:nth-child(10),
+.schedule tr:nth-child(15),
+.schedule tr:nth-child(16){
   background: #333333;
   color: white;
 }
